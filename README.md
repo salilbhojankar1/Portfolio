@@ -34,7 +34,7 @@ Portfolio/
 
 ## 📸 Screenshots
 ### Homepage
-![Portfolio Screenshot](Portfolio/Home.png) <!-- Add a screenshot of your homepage -->
+![Portfolio Screenshot](Portfolio/Homescreenshot.jpg) <!-- Add a screenshot of your homepage -->
 
 ---
 
